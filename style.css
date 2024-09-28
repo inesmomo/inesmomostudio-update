@@ -110,7 +110,7 @@ video {
 .timeline p sup {
     position: relative;
     top: -4px;
-    font-family: "Akkurat Mono";
+    font-family: Helvetica;
     font-size: 11px;
     text-transform: uppercase;
 }
